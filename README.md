@@ -26,7 +26,7 @@ The project is actively being developed, with plans to add further functionality
 
 ---
 
-### [Auction Site](https://github.com/yourusername/auction-site)
+### [Auction Site](https://github.com/yourusername/Auction)
 
 **Technologies**: Django, JavaScript, SQLite
 
@@ -41,7 +41,7 @@ A dynamic auction platform where users can list items for bidding, place bids in
 
 ---
 
-### [Network](https://github.com/yourusername/network)
+### [Network](https://github.com/yourusername/Network)
 
 **Technologies**: Django, JavaScript, SQLite
 

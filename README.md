@@ -22,7 +22,7 @@ An online library platform allowing normal users to search for books , read or d
 - **ADMIN User** : Responsible of All CRUD Operations for books, authors and genres.
 
 **Current Status**:  
-The project is actively being developed, with plans to add further functionality to the reservation and loan management system.
+The project is actively being developed, with plans to add further functionality to the Admin Section.
 
 ---
 
